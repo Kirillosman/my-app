@@ -7,7 +7,7 @@ function User(props) {
       <span>Name: {name}</span>
       <img src={avatar} alt={name} />
     </li>
-  );
+  )
 }
 
 export default User;
